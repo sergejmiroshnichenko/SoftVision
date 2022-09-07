@@ -1,0 +1,37 @@
+.btn-group {
+  display: flex;
+  padding: 12px 19px 0 12px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btn {
+  width: 80px;
+  height: 65px;
+  background: linear-gradient(127.15deg, #0C3461 1.98%, #052140 97.23%);
+  border-radius: 4px;
+  color: rgba(255, 255, 255, 0.7);
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 13px;
+  text-align: center;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+}
+
+button svg {
+  margin: 0 auto;
+  padding: 7px;
+}
+
+.active {
+  background: #23CFF2;
+  box-shadow: 0 0 15px rgba(35, 207, 242, 0.42);
+  width: 85px;
+  height: 70px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}

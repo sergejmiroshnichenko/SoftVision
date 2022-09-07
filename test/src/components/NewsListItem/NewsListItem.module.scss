@@ -1,0 +1,38 @@
+.listItem {
+  list-style-type: none;
+  width: 100%;
+  height: 75px;
+  background: #FFFFFF;
+  border-radius: 5px;
+  margin-bottom: 13px;
+  display: flex;
+}
+
+.picture {
+  padding: 20px 10px
+}
+
+.date {
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 14px;
+  color: rgba(46, 86, 125, 0.9);
+  padding-left: 7px;
+}
+
+.block {
+  text-align: start;
+}
+
+.info {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+  color: #23476A;
+  padding-top: 3.5px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.box {
+  padding: 14px 0;
+}

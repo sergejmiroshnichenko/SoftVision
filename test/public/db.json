@@ -1,0 +1,36 @@
+{
+  "news": [
+    {
+      "image": "/images/rugby_1.svg",
+      "icon": "/images/Vector.svg",
+      "date": "Wed 3d, Sep 19:45",
+      "info": "6 Nations Predictor",
+      "filter": "rugby",
+      "id": "001"
+    },
+    {
+      "image": "/images/football_1.svg",
+      "icon": "/images/Vector.svg",
+      "date": "Wed 3d, Sep 19:45",
+      "info": "PL Score Predictor",
+      "filter": "football",
+      "id": "002"
+    },
+    {
+      "image": "/images/cricket_1.svg",
+      "icon": "/images/Vector.svg",
+      "date": "Wed 3d, Sep 19:45",
+      "info": "PGA Championships Fantasy Golf",
+      "filter": "cricket",
+      "id": "003"
+    },
+    {
+      "image": "/images/rugby_1.svg",
+      "icon": "/images/Vector.svg",
+      "date": "Wed 3d, Sep 19:45",
+      "info": "6 Nations Predictor",
+      "filter": "rugby",
+      "id": "004"
+    }
+  ]
+}
